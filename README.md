@@ -5,3 +5,4 @@
 Olá! Bem vindo ao meu livro de receitas :cake:
 
 - Bolo de Cenoura
+- Brigadeiro
